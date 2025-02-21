@@ -2,7 +2,7 @@
 
 Welcome to my learning repository! Here you will find a collection of notes and practical exercises from the courses that I've completed in Coursera and Open Webinars. This space is designed to be a personal resource, and at the same time, a showcase of my dedication to continous learning and skill development.
 
-## 🚀 ¿Qué puedes encontrar aquí?
+## 🚀 What do you expect to find here?
 
 In this repo, I've organised the resources by course, each in its own directory. Below is a brief description of what can you expect:
 
